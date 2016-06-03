@@ -1,4 +1,4 @@
-FROM stepsaway/baseimage:1.0.0
+FROM stepsaway/baseimage:##TAG##
 MAINTAINER StepsAway <devgru@stepsaway.com>
 
 COPY . /rd_build
