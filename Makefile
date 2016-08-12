@@ -1,5 +1,5 @@
 NAME = stepsaway/baseimage
-VERSION = 1.0.1
+VERSION = 1.0.2
 
 .PHONY: all build_all clean clean_images \
 	build_ruby225 build_ruby230 build_ruby231 \
